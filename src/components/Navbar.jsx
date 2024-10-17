@@ -12,7 +12,7 @@ const Navbar = () => {
     }
 
   return (
-    <section className=''>
+    <section className='sticky top-0 left-0 right-0 z-50 m-4 pb-4 md:pb-1 bg-white'>
         <div>
             <AdvatiseCard />
             <div className='z-0 p-2 md:p-1 m-4'>

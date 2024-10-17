@@ -2,7 +2,7 @@ import React from 'react'
 
 const ThreepeopleCard = () => {
   return (
-    <div className="bottom-1 left-1 lg:bottom-4 lg:left-4 flex items-center justify-center z-[999] backdrop-blur-[40px] bg-[#ffffff1a] rounded-xl min-w-[23.25rem] max-w-[26.25rem] min-h-[15rem] mb-10 ml-10 p-2  absolute inset-auto sm:max-w-[19rem] sm:min-h-[12rem] sm:mb-4 sm:ml-4">
+    <div className="bottom-1 left-1 lg:bottom-4 lg:left-4 flex items-center justify-center z-30 backdrop-blur-[40px] bg-[#ffffff1a] rounded-xl min-w-[23.25rem] max-w-[26.25rem] min-h-[15rem] mb-10 ml-10 p-2  absolute inset-auto sm:max-w-[19rem] sm:min-h-[12rem] sm:mb-4 sm:ml-4">
         <div className='bg-white rounded-lg h-full min-h-[15rem] p-6 sm:min-h-[12rem] sm:p-4 md:min-h-[11rem]'>
             <div className='relative'>
                 <div className='flex gap-4 md:gap-6 justify-start'>

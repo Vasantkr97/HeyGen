@@ -5,7 +5,7 @@ const Spokesperson = () => {
         <div className='padding global w-full h-full pl-6 pr-6 md:pl-5 md:pr-5 sm:pl-4 sm:pr-4 '>
             <div className="container-large mr-auto ml-auto ">
                 <div className="padding-section-medium  pb-12 md:pt-16 md:pb-16 lg:pb-28">
-                    <div className="home-meet_flex flex flex-row justify-between gap-x-24 gap-y-24 place-items-stretch smm:flex-col smm:gap-x-8 smm:gap-y-8 mdd:flex-col mdd:gap-x-12 mdd:gap-y-12 lgg:flex-row lgg:gap-x-20 lgg:gap-y-24 lgg:justify-center lgg:items-start">
+                    <div className="home-meet_flex lg:gap-24 lg:flex lg:flex-row lg:grid-rows-auto lg:grid-cols-2 lg:grid-auto-cols-fr lg:justify-between lg:place-items-center lg:place-content-stretch lg:justify-items-stretch lgg:flex lgg:flex-col lgg:gap-12 lgg:justify-center lgg:items-start mdd:flex mdd:flex-col mdd:gap-12 smm:flex-col smm:gap-8">
                        <div className="block grid-cols-2 w-full max-w-1/2 gap-[0.675rem] auto-rows-auto lgg:max-w-full">
                             <img 
                                 loading="lazy"
