@@ -11,9 +11,19 @@ export default {
         signup: "#000",
         bglogin: "#e6ecf1",
         navbarmid: "#fff",
-        bgsignupfree: "#b256ee"
+        bgsignupfree: "#b256ee",
+        forfree: '#e6ecf1'
       }
     },
+    screens: {
+      'sm': '640px',
+      'md': '768px',
+      'lg': '1024px',
+      'smm': '479px',
+      'mdd': '767px',
+      'lgg': '991px',
+    }
   },
   plugins: [],
 }
+

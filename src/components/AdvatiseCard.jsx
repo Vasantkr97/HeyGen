@@ -13,9 +13,9 @@ const AdvatiseCard = () => {
     }
 
   return (
-    <div className='relative flex flex-row text-white
+    <div className='relative flex flex-row text-white 
      bg-primary items-center justify-center gap-6 p-3 md:p-2 
-     rounded-md m-2 text-base md:text-sm'>
+     rounded-md text-base md:text-sm'>
         <h2 className='font-normal antialiased leading-tight '>Catch our recap of HubSpot INBOUND</h2>
         <a 
             className='flex gap-2 text-white '
