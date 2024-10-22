@@ -19,9 +19,16 @@ export default {
       'sm': '640px',
       'md': '768px',
       'lg': '1024px',
+      'hex': '1280px',
       'smm': '479px',
       'mdd': '767px',
       'lgg': '991px',
+    },
+    gridAutoRows: {
+      "customAuto": "auto auto",
+    },
+    gridAutoColumns: {
+      'frr': '1fr',
     }
   },
   plugins: [],

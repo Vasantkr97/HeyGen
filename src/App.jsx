@@ -1,7 +1,9 @@
 import ContentCreators from "./components/ContentCreators"
+import DoItLive from "./components/DoItLive"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import Spokesperson from "./components/Spokesperson"
+import VioletCard from "./components/VioletCard"
 
 
 const App = () => {
@@ -11,6 +13,8 @@ const App = () => {
         <Hero />
         <Spokesperson />
         <ContentCreators />
+        <VioletCard />
+        <DoItLive />
     </main>
   )
 }

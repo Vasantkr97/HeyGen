@@ -14,8 +14,8 @@ const Spokesperson = () => {
                                 className="block w-full max-w-full sm:inline-block lg:align-middle lg:max-w-full lg:inline-block"
                                  />
                         </div>
-                        <div className="home-meet_content w-full flex flex-col items-start mr-auto lgg:flex lgg:max-w-full lgg:items-start lgg:justify-start lgg:flex-col mdd:w-full mdd:items-start mdd:justify-start smm:relative">
-                            <h2 class="text-[4rem] leading-none font-medium mb-[10px] mt-24 smm:mt-8 lgg:mt-24 mdd:mt-4 smm:text-[1.75rem] mdd:text-[3rem] lgg:text-[3rem] ">
+                        <div className="home-meet_content w-full flex flex-col items-start mr-auto lgg:flex lgg:max-w-full lgg:items-start lgg:justify-center lgg:flex-col mdd:h-full mdd:items-start mdd:justify-center smm:relative smm:mt-4">
+                            <h2 class=" text-[4rem] leading-tight font-normal smm:text-[1.75rem] smm:leading-[1.3] mdd:text-[3rem] lgg:text-[3rem] ">
                                 Meet Your new spokesperson.
                             </h2>
                             <div className="margin_top m-2 smm:m-1.25 mdd:m-1.5 lgg:m-2"></div>

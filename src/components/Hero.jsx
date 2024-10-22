@@ -34,7 +34,7 @@ const Hero = () => {
                         </p>
                         <div className='px-6 mt-12 relative'>
                             <div className='relative w-full h-full mx-auto 
-                                bg-gray-200 rounded-ee-3xl rounded-se-3xl rounded-ss-3xl rounded-es-3xl overflow-hidden'>
+                                bg-gray-200 rounded-[2rem] overflow-hidden'>
                                 <video autoPlay loop muted={isMuted} type='video/mp4' 
                                     src="https://res.cloudinary.com/diqmvbeg6/video/upload/v1727308210/06-HOME-hero_nyz3a8.mp4" 
                                     className="h-full w-full object-cover">
