@@ -25,7 +25,7 @@ const Spokesperson = () => {
                                 </p>
                             </div>
                             <div className="mt-4 mb-4 mr-4 lgg:mt-[1.75rem] mdd:mr-[1.25rem] mdd:mb-[1.25rem]mdd:mt-[1.25rem]  lgg:mr-[1.5rem] lgg:mb-[1.5rem] smm:mt-[1.25rem] smm:mr-[1.25rem] smm:mb-[1.25rem]">
-                                <a href="#" className="flex cursor-pointer flex-col items-start justify-start  mdd:justify-center mdd:items-start bg-black hover:bg-primary text-white text-center rounded-full lg:px-5 lg:py-2.5 px-6 py-3.5 md:px-5 md:py-2.5 font-medium transition-all duration-300 ease-in-out">Signup up for free</a>
+                                <a href="#" className="flex cursor-pointer flex-col items-start justify-start  mdd:justify-center mdd:items-start bg-black hover:bg-[#a34cdb] text-white text-center rounded-full lg:px-5 lg:py-2.5 px-6 py-3.5 md:px-5 md:py-2.5 font-medium transition-all duration-300 ease-in-out">Signup up for free</a>
                             </div>
                         </div>
                     </div>

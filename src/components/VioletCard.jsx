@@ -17,7 +17,7 @@ const VioletCard = () => {
                                     Update existing videos to 175 languages and dialects in minutes. We can even translate for you or add subtitles, making sure lips and voice match perfectly for the world’s easiest, most effective localization.
                                 </p>
                             </div>
-                            <a href="#" className='text-black bg-white text-center text-sm rounded-full px-5 py-2.5 lgg:px-5 lgg:py-2.5 mdd:px-6 mdd:py-3 font-medium transition-all duration-300 ease-in-out'>Learn more</a>
+                            <a href="#" className='text-black bg-white hover:bg-[#a34cdb] text-center text-sm rounded-full px-5 py-2.5 lgg:px-5 lgg:py-2.5 mdd:px-6 mdd:py-3 font-medium transition-all duration-300 ease-in-out'>Learn more</a>
                         </div>
                     </div>
                     <div className='lg:px-4 relative overflow-hidden flex flex-shrink items-center justify-end lgg:justify-end mdd:justify-center'>

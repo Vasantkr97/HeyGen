@@ -12,8 +12,8 @@ const DoItLive = () => {
         <div className='padding_Global w-full h-full pl-6 pr-6'>
             <div className='container-medium mx-auto w-full max-w-[64rem] '>
                 <div className='padding_section pb-28'>
-                    <div className='HomeFlexLiveWrap flex lgg:flex-row  smm:flex-col-reverse mx-auto item-center justify-between gap-y-16 lgg:space-x-24 '>
-                        <div className='HomeFlexLiveLeft overflow-hidden rounded-[2rem]'>
+                    <div className='HomeFlexLiveWrap flex lgg:flex-row  smm:flex-col-reverse mx-auto items-center justify-between gap-y-16 lgg:space-x-24 '>
+                        <div className='HomeFlexLiveLeft overflow-hidden lg:rounded-[2rem] smm:rounded-[1rem] '>
                             <div className='relative'>
                                     <video autoPlay loop type="video/mp4" muted= {isMuted}
                                         className='inline-block items-baseline object-cover relative mx-auto w-[40rem] h-[38rem] lgg:w-[60rem] lgg:h-[38rem] mdd:w-full mdd:h-full smm:w-full smm:h-full'
