@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <section className='z-10 relative bg-[#f1f5f7]'>
+    <section className='z-10 relative bg-[#f1f5f7] '>
         <div className='Global_Padding w-full -h-full px-6'>
             <div className='ContainerLarge mx-auto h-full w-full'>
                 <div className='padding_Section+_Medium pt-24 pb-24'>
