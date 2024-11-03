@@ -36,7 +36,7 @@ const [videoDisplay, setVideoDisplay] = useState("https://resource.heygencdn.com
             </a>
         </div>
         <div className='flex w-full flex-col h-auto'>
-            <a onClick={() => ToggleSection("marketing")} className='relative flex flex-col cursor-pointer text-left py-3 w-full items-stretch justify-between border-b border-b-gray-300'>
+            <a onClick={() => ToggleSection("marketing","https://resource.heygencdn.com/homepage/AImail_final_opt.mp4")} className='relative flex flex-col cursor-pointer text-left py-3 w-full items-stretch justify-between border-b border-b-gray-300'>
                 <div className='flex items-center justify-between'>
                     <h2 className='text-[1.25rem]'>Marketing</h2>
                     <div className='flex items-center justify-start'>
@@ -55,7 +55,7 @@ const [videoDisplay, setVideoDisplay] = useState("https://resource.heygencdn.com
                     </div>
                 </div>)}
             </a>
-            <a onClick={() => ToggleSection("sales")} className='relative flex flex-col cursor-pointer text-left py-3 w-full items-stretch justify-between border-b border-b-gray-300'>
+            <a onClick={() => ToggleSection("sales","https://res.cloudinary.com/diqmvbeg6/video/upload/v1727421703/WebFlow/uwxrdmkggahxyselqn7f.mp4")} className='relative flex flex-col cursor-pointer text-left py-3 w-full items-stretch justify-between border-b border-b-gray-300'>
                 <div className='flex items-center justify-between'>
                     <h2 className='text-[1.25rem]'>Sales</h2>
                     <div className='flex items-center justify-start'>
@@ -73,7 +73,7 @@ const [videoDisplay, setVideoDisplay] = useState("https://resource.heygencdn.com
                     </div>
                 </div>)}
             </a>
-            <a onClick={() => ToggleSection("learning")} className='relative flex flex-col cursor-pointer text-left py-3 w-full items-stretch justify-between border-b border-b-gray-300'>
+            <a onClick={() => ToggleSection("learning","https://res.cloudinary.com/diqmvbeg6/video/upload/q_auto/v1727420992/WebFlow/z91rvukl6qhr5wejwvta.mp4")} className='relative flex flex-col cursor-pointer text-left py-3 w-full items-stretch justify-between border-b border-b-gray-300'>
                 <div className='flex items-center justify-between'>
                     <h2 className='text-[1.25rem]'>Learning & Development</h2>
                     <div className='flex items-center justify-start'>
@@ -91,7 +91,7 @@ const [videoDisplay, setVideoDisplay] = useState("https://resource.heygencdn.com
                     </div>
                 </div>)}
             </a>
-            <a onClick={() => ToggleSection("localization")} className='relative flex flex-col cursor-pointer text-left py-3 w-full items-stretch justify-between border-b border-b-gray-300'>
+            <a onClick={() => ToggleSection("localization","https://res.cloudinary.com/diqmvbeg6/video/upload/q_auto/v1727421678/WebFlow/zscnxyrjlqtmial5j3kr.mp4")} className='relative flex flex-col cursor-pointer text-left py-3 w-full items-stretch justify-between border-b border-b-gray-300'>
                 <div className='flex items-center justify-between'>
                     <h2 className='text-[1.25rem]'>Localization</h2>
                     <div className='flex items-center justify-start'>
