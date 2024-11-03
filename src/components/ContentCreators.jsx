@@ -1,7 +1,8 @@
-import { section } from 'framer-motion/client'
-import React from 'react'
+import React, { useState } from 'react'
+import ThreepeopleCard from './ThreepeopleCard';
 
 const ContentCreators = () => {
+
   return (
     <section className='z-11 relative h-full'>
       <div className='Padding_Global w-full h-full pl-6 pr-6'>
@@ -15,12 +16,8 @@ const ContentCreators = () => {
                   <p className='text-center text-[1rem] whitespace-pre-line '>
                   Whatever you do, whoever you work with — here’s how HeyGen can help.                  </p>
               </div>
-              <div className='Avatar_problem_tabs flex mx-auto mt-[4rem] items-stretch justify-between flex-row-reverse '>
-                <div className='flex max-w-[27rem] w-full flex-col'>
-                  <a className='flex py-4 w-full items-stretch justify-between flex-col border-b border-gray-300 bg-transparent '>
-                    
-                  </a>
-                </div>
+              <div className='Avatar_problem_tabs flex mx-auto mt-[4rem] items-stretch justify-start  '>
+                <ThreepeopleCard />
               </div>
             </div>
           </div>
