@@ -16,7 +16,7 @@ const [videoDisplay, setVideoDisplay] = useState("https://resource.heygencdn.com
   }
     
   return (
-    <div className='flex max-w-7xl  h-full w-full flex-row justify-between gap-x-20'>
+    <div className='flex max-w-7xl  h-full w-full flex-row justify-between items-center gap-x-20'>
         <div className='relative min-w-[36rem]'>
             <video autoPlay loop muted={muted} 
                 className=' rounded-[1rem]'
