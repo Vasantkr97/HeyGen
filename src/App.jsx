@@ -1,3 +1,4 @@
+import AllYouNeed from "./components/AllYouNeed"
 import ContentCreators from "./components/ContentCreators"
 import DoItLive from "./components/DoItLive"
 import Footer from "./components/Footer"
@@ -17,6 +18,7 @@ const App = () => {
         <Hero />
         <Spokesperson />
         <ContentCreators />
+        <AllYouNeed />
         <VioletCard />
         <DoItLive />
         <Personalized />

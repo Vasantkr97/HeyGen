@@ -12,7 +12,10 @@ const Hero = () => {
 
 
   return (
-    <section className='pt-2.5 mt-18'>
+    <section className='pt-2.5 mt-18 relative'>
+        <img loading='lazy' src="https://cdn.prod.website-files.com/66a9edf7bd0139f5207e19be/66db31dbefabba2ccab38c8b_hero-2%202.avif" 
+                className='z-[-2] w-full h-full inline-block absolute align-middle'
+            />
         <div className='flex flex-col items-center justify-center gap-6'>
             <div className='text-center mt-6 '>
                 <div>
@@ -34,10 +37,10 @@ const Hero = () => {
                         </p>
                         <div className='px-6 mt-12 relative'>
                             <div className='relative w-full h-full mx-auto 
-                                bg-gray-200 rounded-[2rem] overflow-hidden'>
+                                bg-gray-200 rounded-[3.5rem] overflow-hidden'>
                                 <video autoPlay loop muted={isMuted} type='video/mp4' 
                                     src="https://res.cloudinary.com/diqmvbeg6/video/upload/v1727308210/06-HOME-hero_nyz3a8.mp4" 
-                                    className="h-full w-full object-cover">
+                                    className="h-full w-full object-cover outline-none">
                                 </video>
                                 <div className='flex justify-center items-center cursor-pointer bg-white bg-opacity-[0.1] border border-white border-opacity-[0.18] rounded-lg w-18 h-18 p-2.5 absolute top-10 left-10 "'>
                                     <button onClick={micHandler}  className='bg-[#fff] rounded-lg  p-4'>

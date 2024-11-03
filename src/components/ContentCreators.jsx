@@ -8,7 +8,7 @@ const ContentCreators = () => {
         <div className='ContainerLarge w-full h-full mx-auto'>
           <div className='Padding_section_medium pt-16 pb-16 '>
             <div className='Avtar_Problem_wrapper max-w-[65rem] mx-auto '>
-              <div className='Avatar_Problem_Heading flex flex-col mx-auto max-w-full items-center justify-start gap-6'>
+              <div className='avatar-problem-header flex flex-col mx-auto max-w-full items-center justify-start gap-6'>
                   <h2 className='font-normal text-[2.2rem] leading-[1.2rem] '>
                     Video for content creators like you. 
                   </h2>
@@ -16,7 +16,11 @@ const ContentCreators = () => {
                   Whatever you do, whoever you work with — here’s how HeyGen can help.                  </p>
               </div>
               <div className='Avatar_problem_tabs flex mx-auto mt-[4rem] items-stretch justify-between flex-row-reverse '>
-                sasdvasd
+                <div className='flex max-w-[27rem] w-full flex-col'>
+                  <a className='flex py-4 w-full items-stretch justify-between flex-col border-b border-gray-300 bg-transparent '>
+                    
+                  </a>
+                </div>
               </div>
             </div>
           </div>
