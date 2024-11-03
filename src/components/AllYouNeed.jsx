@@ -51,9 +51,9 @@ const AllYouNeed = () => {
                 </div>
             </div>
         </div>
-        <img loading='lazy' src="https://cdn.prod.website-files.com/66a9edf7bd0139f5207e19be/66dc391e06db0a58c13ee13e_texture%203.avif" 
+        {/* <img loading='lazy' src="https://cdn.prod.website-files.com/66a9edf7bd0139f5207e19be/66dc391e06db0a58c13ee13e_texture%203.avif" 
             className='z-[-1] w-full h-[45] inline-block absolute align-middle'
-        />
+        /> */}
     </div>
   )
 }
