@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import ThreepeopleCard from './ThreepeopleCard';
+import ContentListCard from './ContentListCard';
 
 const ContentCreators = () => {
 
@@ -10,14 +10,14 @@ const ContentCreators = () => {
           <div className='Padding_section_medium pt-16 pb-16 '>
             <div className='Avtar_Problem_wrapper max-w-[65rem] mx-auto '>
               <div className='avatar-problem-header flex flex-col mx-auto max-w-full items-center justify-start gap-6'>
-                  <h2 className='font-normal text-[2.2rem] leading-[1.2rem] '>
+                  <h2 className='font-normal gg:text-[2.2rem] ll:text-[2rem] gg:leading-[1.2rem] ss:text-[1.675rem] ss:leading-[1.4] ss:min-w-[40px]'>
                     Video for content creators like you. 
                   </h2>
                   <p className='text-center text-[1rem] whitespace-pre-line '>
-                  Whatever you do, whoever you work with — here’s how HeyGen can help.                  </p>
+                  Whatever you do, whoever you work with — here’s how HeyGen can help.</p>
               </div>
               <div className='Avatar_problem_tabs flex mx-auto mt-[4rem] items-stretch justify-start  '>
-                <ThreepeopleCard />
+                <ContentListCard />
               </div>
             </div>
           </div>

@@ -23,6 +23,10 @@ export default {
       'smm': '479px',
       'mdd': '767px',
       'lgg': '991px',
+      'ss': '1px',
+      'mm': '479px',
+      'll': '767px',
+      'gg': '991px',
     },
     gridAutoRows: {
       "customAuto": "auto auto",

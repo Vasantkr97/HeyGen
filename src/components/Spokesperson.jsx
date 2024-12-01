@@ -1,5 +1,7 @@
 
 const Spokesperson = () => {
+
+    
   return (
     <section className='mt-28 mdd:mt-16'>
         <div className='padding global w-full h-full pl-6 pr-6 md:pl-5 md:pr-5 sm:pl-4 sm:pr-4 '>

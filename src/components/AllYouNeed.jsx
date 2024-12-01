@@ -1,5 +1,5 @@
+
 import React from 'react'
-import VioletCard from './VioletCard'
 
 const AllYouNeed = () => {
 
@@ -14,7 +14,7 @@ const AllYouNeed = () => {
                         </div>
                         <div className='block'>
                             <p className='text-[1.1rem] text-center mb-[10px] '>
-                            Write your script (or get some help with built-in ChatGPT), and watch an avatar read it flawlessly  in one take. Need to change something? No reshoots necessary, just edit the text.                            </p>
+                            Write your script (or get some help with built-in ChatGPT), and watch an avatar read it flawlessly  in one take. Need to change something? No reshoots necessary, just edit the text.</p>
                         </div>
                         <a className='flex cursor-pointer flex-col items-start justify-start  mdd:justify-center mdd:items-start bg-black hover:bg-[#a34cdb] text-white text-center rounded-full lg:px-6 lg:py-2.4 px-6 py-3.5 md:px-5 md:py-2.5 font-medium transition-all duration-300 ease-in-out'>
                             Get started for free

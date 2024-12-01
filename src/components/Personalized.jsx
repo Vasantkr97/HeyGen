@@ -18,7 +18,7 @@ const Personalized = () => {
                     </div>
                     <div className='overflow-hidden'>
                         <img 
-                            className='inline-block rounded-[2rem] min-w-[43rem] max-h-[45rem] '
+                            className='inline-block rounded-[2rem] ll:min-w-[43rem]  max-h-[45rem] '
                             loading="lazy" src="https://cdn.prod.website-files.com/66a9edf7bd0139f5207e19be/66a9fecef2bdc8ab51fc0436_Frame%20538%20(1)-p-1080.webp">
                         </img>
                     </div>
