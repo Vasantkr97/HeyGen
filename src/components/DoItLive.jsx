@@ -17,7 +17,7 @@ const DoItLive = () => {
                             <div className='relative'>
                                     <video autoPlay loop type="video/mp4" muted= {isMuted}
                                         className='inline-block items-baseline object-cover relative mx-auto w-[40rem] h-[38rem] lgg:w-[60rem] lgg:h-[38rem] mdd:w-full mdd:h-full smm:w-full smm:h-full'
-                                        src="https://res.cloudinary.com/diqmvbeg6/video/upload/f_auto,q_auto/v1727308222/HeyGen-2.0-StreamingAvatar-1400x1600-081524_npuqow.mp4"></video>
+                                        src="https://dynamic.heygen.ai/www/Home%20-%20Page/TranslateExampleEnglish-COMP.mp4?updatedAt=1742903642932#t=0.01"></video>
                                     <a className='cursor-pointer bg-[#ffffff1a] border border-white/30 rounded-lg w-16 h-16 p-2 absolute inset-10 top-10 left-10'>
                                     <button onClick={micHandler} className='flex w-full h-full items-center justify-center rounded-lg p-0 bg-[#fff]'>
                                             <img 

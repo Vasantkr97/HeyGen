@@ -11,7 +11,7 @@ export const heroData = {
     },
     video: {
       defaultUrl:
-        "https://res.cloudinary.com/diqmvbeg6/video/upload/v1727308210/06-HOME-hero_nyz3a8.mp4",
+        "https://dynamic.heygen.ai/www/Home%20-%20Page/HeroEnglish2.mp4?updatedAt=1745968087303#t=0.01",
       avatars: [
         {
           id: "avatar1",

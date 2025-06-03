@@ -1,7 +1,7 @@
 
 const ContentListConstants = [
     {
-        link: "https://resource.heygencdn.com/homepage/AImail_final_opt.mp4",
+        link: "https://dynamic.heygen.ai/www/Home%20-%20Page/MotionControlVideo-Comp.mp4?updatedAt=1742902221277#t=0.01",
         text: "Marketing",
         subtext: "Make product explainers and how-to’s for anyone, anywhere, instantly.",
     },
